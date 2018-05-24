@@ -1,0 +1,45 @@
+body {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+h2 {
+  padding-top: 30px;
+  padding-left: 30px;
+  color: teal;
+  /* border-bottom: 1px solid gray; */
+
+}
+h3 {
+  color: white;
+  background: #4aaaa5;
+  position: absolute;
+  top: 170px;
+  text-align: center;
+  right: 0;
+  left: 0;
+}
+.name {
+  background: teal;
+  color: white;
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  letter-spacing: 1px;
+  padding: 20px;
+  margin-left: 25px;
+}
+
+.indexImage {
+  float: left;
+  margin-right: 15px;
+}
+
+.contactForms {
+  width: 75%;
+}
+
+.portfolioImage {
+  float: left;
+  margin: 10px;
+  position: relative;
+}
